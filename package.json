@@ -1,0 +1,17 @@
+{
+  "name": "package-versioner",
+  "version": "1.0.0",
+  "description": "adds versions to package jsons",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^3.2.4",
+    "fs-extra": "^9.0.1",
+    "insert-line": "^1.1.0"
+  }
+}
